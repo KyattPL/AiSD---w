@@ -1,2 +1,2 @@
-# AiSD---w
+# AiSD - Ćw
 Algorytmy i Struktury Danych - Ćwiczenia
