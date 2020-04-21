@@ -1,5 +1,5 @@
 public class OneWayLinkedListWithHead<E> {
-    private class Element<E> {
+    private class Element {
         private E value;
         private Element next;
 
